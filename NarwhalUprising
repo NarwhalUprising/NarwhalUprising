@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+
+  <head> 
+    <title> Estefany Narvaez Collado</title>
+  </head>
+  
+  
+  <body>
+    <h1>About Me</h1>
+      <p>2-3 paragraphs</p>
+      
+    <h1>Education</h1>
+      <h2>Degrees</h2>
+        <ul>
+          <li>Mathematics B.S. from Florida Gulf Coast University</li>
+          <li>Secondary Mathematics Education B.A. from Florida Gulf Coast University</li>
+        </ul>
+    <h1>Education Experience</h1>
+      <h2>Field Experience (K-12)</h2>
+        <ul>
+          <li>Over 30 hourse of reported field experience in elementary, middle, and high school level classrooms in Lee County.</li>
+          <li>Served 16 hours as aid for ELL/ESOL middle school students in Lee County.</li>
+          <li>Completed Level 1 Internship (2 days a week) at North Fort Myers High School teaching Pre-Calculus and AP Statistics to 9th-12th graders. (Spring 2018)</li>
+          <li>Completed Level 2 Internship as Teacher of Record at Lehigh Senior High School teaching 3 sections of Geometry and 3 sections of Geometry Honors to 9th-11th graders. (Fall 2018)</li>
+        </ul>
+      <h2>Field Experience (Beyond K-12)</h2>
+        <ul> 
+          <li>Learning Assitant at FGCU for Precalculus (Fall 2017) and Statistical Methods (Spring 2018).</li>
+          <li>Teaching Assistant at FGCU for Calculus 1 (Summer 2018) and Discrete Mathematics (Spring 2019).</li>
+          <li>T.A. for the Girls in Engineering, Math and Science (GEMS) program through FGCU's Whitaker Center. (Fall 2018, Spring 2019)</li>
+        </ul>
+      <h2>Highlighted Education Courses Taken</h2>
+        <ul>
+          <li>Add courses</li>
+        </ul>
+    <h1>Mathematics Profile</h1>
+      <h2>Interests</h2>
+        <p>Talk about math interests.</p>
+      <h2>Research</h2>
+        <ul>
+          <li>Talk about LA research, attach poster.</li>
+          <li>Talk about Insko Research, attach abstract.</li>
+          <li>Talk about presenting at research day, attach poster wehn available.</li>
+        </ul>
+      <h2>Highlighted Math Courses</h2>
+        <ul>
+          <li>Include course number, professor, date and textbook used.</li>
+        </ul>
+        
+    
+    
+  </body>
+  
+  
+</html>
