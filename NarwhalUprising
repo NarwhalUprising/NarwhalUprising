@@ -35,6 +35,8 @@
         <ul>
           <li>Add courses</li>
         </ul>
+        
+        
     <h1>Mathematics Profile</h1>
       <h2>Interests</h2>
         <p>Talk about math interests.</p>
@@ -42,12 +44,21 @@
         <ul>
           <li>Talk about LA research, attach poster.</li>
           <li>Talk about Insko Research, attach abstract.</li>
-          <li>Talk about presenting at research day, attach poster wehn available.</li>
+          <li>Talk about presenting at research day, attach poster when available.</li>
         </ul>
       <h2>Highlighted Math Courses</h2>
         <ul>
           <li>Include course number, professor, date and textbook used.</li>
         </ul>
+    <h1>Contact Me</h1>
+      <ul>
+        <li>email: <a href='mailto:eanarvaezcollado5983@eagle.fgcu.edu'>eanarvaezcollado5983@eagle.fgcu.edu</a></li>
+        <li>Phone: 813-294-8346</li>
+        <li>Input linkedin link (also, update linkedin profile)</li>
+      </ul>
+      
+        
+        
         
     
     
